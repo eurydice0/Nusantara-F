@@ -59,7 +59,7 @@ export default function LoginKaryawan() {
             fontFamily: "var(--font-geist-mono)",
           }}
         >
-          Login Karyawan
+          Login Page
         </h1>
 
         {error && (
